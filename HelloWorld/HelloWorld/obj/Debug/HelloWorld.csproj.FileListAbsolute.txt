@@ -1,1 +1,2 @@
 C:\Users\jts5b_000\Source\Repos\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\jts5b_000\Source\Repos\HelloWorld\HelloWorld\HelloWorld\HelloWorld\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
